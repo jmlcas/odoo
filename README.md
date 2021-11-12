@@ -1,8 +1,8 @@
 # odoo
 Odoo - Docker-compose
 
-Password: gbyv-imgf-5kqu
+Password Base de datos: nos lo muestra la imagen de inicio
 
-Database name: odoo_db_1
+Nombre base de datos: odoo_db
 
-View in "localhost:8200"
+Ver  en "localhost:8200"
