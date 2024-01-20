@@ -3,7 +3,7 @@ version: '3.3'
 services:
 
   odoo:
-    image: odoo:15.0
+    image: odoo:16.0
     container_name: odoo
     restart: unless-stopped
     links:
@@ -18,7 +18,7 @@ services:
       - ./addons:/mnt/extra-addons
 
   db:
-    image: postgres:14.0
+    image: postgres:15.0
     container_name: db
     restart: unless-stopped       
     environment:
