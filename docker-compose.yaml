@@ -1,7 +1,7 @@
 services:
 
   odoo:
-    image: odoo:17.0
+    image: odoo:latest
     container_name: odoo
     restart: unless-stopped
     links:
