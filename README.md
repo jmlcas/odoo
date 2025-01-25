@@ -1,8 +1,8 @@
-# odoo
-Odoo - Docker-compose
+# Odoo
 
-Password Base de datos: nos lo muestra la imagen de inicio
+Ver  en "http://localhost:8200"
 
-Nombre base de datos: db
+Usuario: admin
 
-Ver  en "localhost:8200"
+Password: admin
+
